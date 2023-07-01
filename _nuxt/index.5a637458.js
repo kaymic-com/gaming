@@ -1,0 +1,1 @@
+import{l as t,q as n,K as o,m as c,k as a,M as r}from"./entry.243fa99e.js";import{_ as s}from"./_plugin-vue_export-helper.c27b6911.js";const _={},m=c("h1",null,"Redirecting...",-1);function i(l,d){const e=r;return a(),t(o,null,[n(e,{"http-equiv":"refresh",content:"0;URL='https://www.youtube.com/@KaymicGaming'"}),m],64)}const u=s(_,[["render",i]]);export{u as default};
